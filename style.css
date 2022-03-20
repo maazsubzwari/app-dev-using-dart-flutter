@@ -1,0 +1,22 @@
+div{
+    background-color: blue;
+    
+}
+h1{
+    background-color: aqua;
+    margin: 10px;
+}
+h2{
+    background-color: blueviolet;
+    margin: 10px;
+}
+h3{
+    background-color: chartreuse;
+    margin: 10px;
+}
+p {
+    background-color: brown;
+}
+p{
+    background-color: aqua;
+}
